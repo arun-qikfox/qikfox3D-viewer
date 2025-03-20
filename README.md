@@ -1,3 +1,7 @@
+# Dev git 
+This repo can be deleted. It is used to run the 3d browser manually. 
+The scripts are added to automate the process and shared it in the repo: https://github.com/arun-qikfox/qikfox3D
+
 <img align="left" width="100" height="100" src="doc/qikfox3D_256.png" alt="Logo of qikfox3D viewer"/>
 
 **[qikfox3D](https://www.qikfox3Dviewer.org) is a free client for 3D virtual worlds such as Second Life and various OpenSim worlds where users can create, connect and chat with others from around the world.**

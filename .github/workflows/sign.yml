@@ -85,7 +85,7 @@ jobs:
             https://api.github.com/repos/${{ github.repository }}/actions/runs/${{ github.run_id }}/artifacts
       
       - name: Download Setup.exe Files Artifact
-        uses: actions/download-artifact@v4
+        uses: actions/download-artifact@v5
         with:
           name: setup-exe-files
           path: setup_exe_files
